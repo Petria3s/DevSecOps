@@ -1,2 +1,3 @@
 # DevSecOps
-Ansible Lint, Terraform, etc.
+Static Code Analysis - Ansible Lint Lab
+Terraform State Lab
