@@ -1,3 +1,3 @@
 # DevSecOps
-Static Code Analysis - Ansible Lint Lab
+Static Code Analysis - Ansible Lint Lab +
 Terraform State Lab
